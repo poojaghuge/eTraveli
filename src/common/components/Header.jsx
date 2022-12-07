@@ -7,7 +7,7 @@ import Toolbar from "@mui/material/Toolbar";
 export default function Header() {
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static" color="primary">
+      <AppBar position="static" style={{backgroundColor:'#f0f0f021'}}>
         <Toolbar>
           <div>Movie App</div>
         </Toolbar>

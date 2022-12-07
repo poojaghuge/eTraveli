@@ -16,6 +16,7 @@ export const MovieContainer = () => {
     const response = await getMovies();
     setResponse(response.results);
     setData(response.results);
+    setLoading(false);
   };
 
   const showDetails = (item) => {
@@ -42,12 +43,12 @@ export const MovieContainer = () => {
 
   useEffect(() => {
     getData();
-    setLoading(false);
   }, []);
 
   const showDetailsMemo = useCallback(showDetails, []);
   const handleSortMemo = useCallback(handleSort, [data]);
 
+  console.log("loading",loading)
   return (
     <>
       <MemoisedActionBar
