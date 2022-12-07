@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test MemoisedMovieDetails test if matches the DOM Snapshot 1`] = `
+<div
+  className="default"
+>
+  No Movie Selected
+</div>
+`;

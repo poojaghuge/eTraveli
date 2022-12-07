@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test MemoisedBasicTable test if matches the DOM Snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-11xur9t-MuiPaper-root-MuiTableContainer-root"
+>
+  <table
+    aria-label="simple table"
+    className="MuiTable-root css-quj9j6-MuiTable-root"
+    role={null}
+  >
+    <thead
+      className="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+      role={null}
+    >
+      <tr
+        className="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+          scope="col"
+        >
+          Episode
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+          scope="col"
+        >
+          Title
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+          scope="col"
+        >
+          Year
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      role={null}
+    >
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          4
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          A New Hope
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          1977-05-25
+        </th>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          5
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          The Empire Strikes Back
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          1980-05-17
+        </th>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          6
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          Return of the Jedi
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          1983-05-25
+        </th>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          1
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          The Phantom Menace
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          1999-05-19
+        </th>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          2
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          Attack of the Clones
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          2002-05-16
+        </th>
+      </tr>
+      <tr
+        className="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        onClick={[Function]}
+        role={null}
+      >
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          role="episode"
+          scope="row"
+        >
+          EPISODE 
+          3
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          Revenge of the Sith
+        </th>
+        <th
+          aria-sort={null}
+          className="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          scope="row"
+        >
+          2005-05-19
+        </th>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
